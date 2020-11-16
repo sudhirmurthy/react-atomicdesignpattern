@@ -28,7 +28,7 @@ An ecosystem that views different template renders. We can create multiple ecosy
 
 Since React follows a component-based architecture, it’s pretty common to organise your components based on the type, rather than feature. What if we built a sub-ecosystem for each component feature?
 
-
+![Atomic Development](file-structure.png)
 
 1. Each component or service has its own isolated environment — everything needed to work on its own instance. You can see that each component /Buttons & /Form has its own set of styles, actions, and unit or integration tests that act like an independent piece of feature in your app. (You can also add its own set of images and other local variables.) This makes it much easier, and reduces your efforts, to test your code consistently and effectively.
 
