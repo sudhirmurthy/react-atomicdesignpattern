@@ -5,4 +5,4 @@ Atomic design, developed by Brad Frost and Dave Olsen, is a methodology for craf
 
 The five distinct levels of atomic design — atoms > molecules > organisms > templates > pages — map incredibly well to React’s component-based architecture.
 
-
+![Alt text](atomic-development.png?raw=true "Atomic Development")
